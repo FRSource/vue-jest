@@ -6,7 +6,9 @@
 
 <style module src="./styles/external.css" />
 
-<style module="$style2" src="~__styles/external.css" />
+<style module="$style2" src="./styles/external.css"></style>
+
+<style module="$style3" src="~__styles/external.css" />
 
 <style module="css">
 .a {
